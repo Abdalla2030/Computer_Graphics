@@ -6,8 +6,8 @@ Assignment # 1    ( Circle and Line )
 **********************************************************
 
 task 2
-![](Assignment1/task%502.jpg)
+![](Assignment1/task%202.jpg)
 
 task 3
-![](Assignment1/task%203.jpg)
+![](Assignment1/task%103.jpg)
 
