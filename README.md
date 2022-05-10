@@ -11,3 +11,9 @@ task 2
 task 3
 ![](Assignment1/task%203.jpg)
 
+
+Assignment # 2    ( Curve and Clipping )
+**********************************************************
+
+task 3
+![](Assignment2/task%203.jpg)
