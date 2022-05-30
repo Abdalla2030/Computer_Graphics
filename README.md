@@ -1,5 +1,5 @@
 # Computer_Graphics
-Assignments of Computer Graphics (IT361) Course
+Assignments of Computer Graphics Course (IT361) 
 
 
 Assignment # 1    ( Circle and Line )
